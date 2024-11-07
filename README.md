@@ -1,9 +1,31 @@
-# r3f-animated-book-slider-final
+# 3D Book Portfolio
 
-![YouTube Thumbnail](https://github.com/user-attachments/assets/c6b6ea2e-2643-4d53-89b7-ee5b848de06d)
+This is my 3D book portfolio, built using Three.js, inspired by a fantastic tutorial I found online. I modified the design and code to fit my personal portfolio needs, and it's now fully functional. To get started, follow the instructions below.
 
-[Video tutorial](https://youtu.be/b7a_Y1Ja6js)
+## Thank You
 
-[Live demo](https://r3f-animated-book-slider-final.vercel.app/)
+A big thank you to [this video tutorial](https://youtu.be/b7a_Y1Ja6js) for providing such a clear and detailed guide on creating a 3D book using Three.js. I have adapted the approach from the tutorial to create a personalized 3D book portfolio. 
 
-[Starter code](https://github.com/wass08/r3f-animated-book-slider-starter)
+## How to Run
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    git clone https://github.com/komalpreetkaurr/3d-book-portfolio.git
+    cd 3d-book-portfolio
+2. Install the dependencies:
+    npm install
+3. Run the development server:
+    npm run dev
+4. Open your browser and navigate to `localhost` to view the portfolio.
+
+Enjoy exploring the interactive 3D book portfolio!
+
+## Customization
+
+I have customized the design and interactions to reflect my personal style. Feel free to fork the repository and tweak it to suit your needs!
+
+## Credits
+
+- Tutorial source: [Three.js 3D Book Tutorial](https://youtu.be/b7a_Y1Ja6js)
+- Special thanks to the creator of the tutorial for making this project possible.
